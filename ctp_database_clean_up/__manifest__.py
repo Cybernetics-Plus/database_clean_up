@@ -7,7 +7,7 @@
 ###################################################################################
 
 {
-    'name': 'Cybernetics Plus Data Clean up',
+    'name': 'Database Clean up',
     'version': '15.0.1.0.1',
     'summary': """ 
             Cybernetics Plus Tools Database Clean up
