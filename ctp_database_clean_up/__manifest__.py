@@ -15,7 +15,7 @@
     "description": """ 
             Cybernetics Plus Tools Database Clean up
             .""",
-    "author": "Cybernetics+",
+    "author": "Cybernetics Plus",
     "website": "https://www.cybernetics.plus",
     "live_test_url": "https://www.cybernetics.plus",
     "images": ["static/description/banner.gif"],
